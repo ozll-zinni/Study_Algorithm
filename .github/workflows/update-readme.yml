@@ -6,6 +6,7 @@ on: # jobs가 실행되어야 하는 상황 정의
   push:
     branches: [ "main" ] # main 브랜치에 push가 발생했을 때
   pull_request:
+    branches: [ "main" ]
 
 jobs: # 실제 실행될 내용
   build:
