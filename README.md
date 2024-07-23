@@ -10,6 +10,7 @@
 |10870. 피보나치 수 5|[링크](./%EB%B0%B1%EC%A4%80/Bronze/10870.%E2%80%85%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%E2%80%85%EC%88%98%E2%80%855/README.md)|
 |1978. 소수 찾기|[링크](./%EB%B0%B1%EC%A4%80/Bronze/1978.%E2%80%85%EC%86%8C%EC%88%98%E2%80%85%EC%B0%BE%EA%B8%B0/README.md)|
 |2557. Hello World|[링크](./%EB%B0%B1%EC%A4%80/Bronze/2557.%E2%80%85Hello%E2%80%85World/Hello%E2%80%85World.py)|
+|2588. 곱셈|[링크](./%EB%B0%B1%EC%A4%80/Bronze/2588.%E2%80%85%EA%B3%B1%EC%85%88/README.md)|
 |2798. 블랙잭|[링크](./%EB%B0%B1%EC%A4%80/Bronze/2798.%E2%80%85%EB%B8%94%EB%9E%99%EC%9E%AD/%EB%B8%94%EB%9E%99%EC%9E%AD.py)|
 ### 🚀 Diamond
 | 문제번호 | 링크 |
