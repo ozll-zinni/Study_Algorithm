@@ -1,4 +1,4 @@
-a = int(input())
+N = int(input())
 
-for i in range(1,10):
-    print(a, "*", i, "=", a*i)
+for i in range(1, 10):
+    print(N, "*", i, "=", N*i)
