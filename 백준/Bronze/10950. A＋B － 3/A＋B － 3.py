@@ -1,5 +1,5 @@
 T = int(input())
 
-for i in range(1, T+1):
+for i in range(T):
     A, B = map(int, input().split())
     print(A + B)
