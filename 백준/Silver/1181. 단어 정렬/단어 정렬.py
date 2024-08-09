@@ -1,10 +1,15 @@
-n = int(input())
+import sys
+import heapq
 
-words = [str(input()) for i in range(n)]
+n = int(sys.stdin.readline())
+res = []
 
-words = list(set(words))
-words.sort()
-words.sort(key=len)
+for i in range(n):
+    a = sys.stdin.readline().rstrip()
+    heapq.heappush(res, (len(a), a))
 
-for i in words:
-    print(i)
+res = list(set(res))
+res.sort(key=lambda x:(x[0], x[1]))
+
+for r in res:
+    print(r[1])
