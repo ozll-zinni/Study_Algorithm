@@ -1,22 +1,16 @@
+import sys
+from itertools import permutations
+
+input = sys.stdin.readline
 n = int(input())
-a = list(map(int, input().split()))
-max_value = 0
+arr = list(map(int, input().split()))
+p = list(permutations(arr, n))
 
-def get_sum(permu):
-    return sum(abs(permu[i]-permu[i+1]) for i in range(n-1))
+answer = 0
+for i in p:
+    s = 0
+    for j in range(n-1):
+        s += abs(i[j]-i[j+1])
+    answer = max(answer, s)
 
-def recur(permu,visited):
-    global max_value
-    if len(permu) == n:
-        max_value = max(max_value, get_sum(permu))
-
-    for i in range(n):
-        if not visited[i]:
-            visited[i] = True
-            recur(permu + [a[i]], visited)
-            visited[i] = False
-    
-visited = [False] * n
-recur([], visited)
-
-print(max_value)
+print(answer)
