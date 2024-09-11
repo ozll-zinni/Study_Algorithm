@@ -1,20 +1,16 @@
-#!/usr/bin/env python
-
 import os
 from urllib import parse
 
-HEADER="""# 
-# 백준 & 프로그래머스 문제 풀이 목록
-
+HEADER = """# 
+# 백준& 프로그래머스 & 리트코드 문제 풀이 목록
 
 """
-
 def main():
     content = ""
     content += HEADER
     
-    directories = [];
-    solveds = [];
+    directories = []
+    solveds = []
 
     for root, dirs, files in os.walk("."):
         dirs.sort()
@@ -35,9 +31,10 @@ def main():
         
         if directory == '.':
             continue
-            
+
+        # 백준, 프로그래머스, 리트코드 디렉토리를 따로 처리
         if directory not in directories:
-            if directory in ["백준", "프로그래머스"]:
+            if directory in ["백준", "프로그래머스", "리트코드"]:
                 content += "## 📚 {}\n".format(directory)
             else:
                 content += "### 🚀 {}\n".format(directory)
