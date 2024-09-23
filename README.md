@@ -6,9 +6,10 @@
 ### 🚀 LeetCode
 | 문제번호 | 링크 |
 | ----- | ----- |
-|배열, 문자열|[링크](./LeetCode/%EB%B0%B0%EC%97%B4%2C%20%EB%AC%B8%EC%9E%90%EC%97%B4/Longest%20Substring%20Without%20Repeating%20Characters.js)|
-|비트 마스킹|[링크](./LeetCode/%EB%B9%84%ED%8A%B8%20%EB%A7%88%EC%8A%A4%ED%82%B9/.DS_Store)|
-|투 포인터|[링크](./LeetCode/%ED%88%AC%20%ED%8F%AC%EC%9D%B8%ED%84%B0/1768.py)|
+### 🚀 배열, 문자열
+| 문제번호 | 링크 |
+| ----- | ----- |
+|Longest Substring Without Repeating Characters|[링크](./LeetCode/%EB%B0%B0%EC%97%B4%2C%20%EB%AC%B8%EC%9E%90%EC%97%B4/Longest%20Substring%20Without%20Repeating%20Characters/Longest%20Substring%20Without%20Repeating%20Characters.js)|
 ## 📚 백준
 ### 🚀 Bronze
 | 문제번호 | 링크 |
