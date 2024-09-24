@@ -7,6 +7,7 @@
 ### 🚀 배열, 문자열
 | 문제번호 | 링크 |
 | ----- | ----- |
+|3Sum|[링크](./LeetCode/%EB%B0%B0%EC%97%B4%2C%20%EB%AC%B8%EC%9E%90%EC%97%B4/3Sum/3Sum.js)|
 |Longest Substring Without Repeating Characters|[링크](./LeetCode/%EB%B0%B0%EC%97%B4%2C%20%EB%AC%B8%EC%9E%90%EC%97%B4/Longest%20Substring%20Without%20Repeating%20Characters/Longest%20Substring%20Without%20Repeating%20Characters.js)|
 ## 📚 백준
 ### 🚀 Bronze
