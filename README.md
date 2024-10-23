@@ -8,6 +8,10 @@
 | 문제번호 | 링크 |
 | ----- | ----- |
 |Two sum|[링크](./LeetCode/Hash/Two%20sum/Two%20Sum.js)|
+### 🚀 Math
+| 문제번호 | 링크 |
+| ----- | ----- |
+|palidrome number|[링크](./LeetCode/Math/palidrome%20number/palidrome%20number.py)|
 ### 🚀 배열, 문자열
 | 문제번호 | 링크 |
 | ----- | ----- |
