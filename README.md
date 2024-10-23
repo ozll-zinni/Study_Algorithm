@@ -11,6 +11,7 @@
 ### 🚀 Math
 | 문제번호 | 링크 |
 | ----- | ----- |
+|Reverse Integer|[링크](./LeetCode/Math/Reverse%20Integer/Reverse%20Integer.py)|
 |palidrome number|[링크](./LeetCode/Math/palidrome%20number/palidrome%20number.py)|
 ### 🚀 배열, 문자열
 | 문제번호 | 링크 |
