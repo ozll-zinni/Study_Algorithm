@@ -11,6 +11,7 @@
 ### 🚀 Math
 | 문제번호 | 링크 |
 | ----- | ----- |
+|3178.Find the Child Who Has the Ball After K Seconds|[링크](./LeetCode/Math/3178.Find%20the%20Child%20Who%20Has%20the%20Ball%20After%20K%20Seconds/3178.%20Find%20the%20Child%20Who%20Has%20the%20Ball%20After%20K%20Seconds.js)|
 |Reverse Integer|[링크](./LeetCode/Math/Reverse%20Integer/Reverse%20Integer.py)|
 |palidrome number|[링크](./LeetCode/Math/palidrome%20number/palidrome%20number.py)|
 ### 🚀 배열, 문자열
