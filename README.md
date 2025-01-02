@@ -9,6 +9,7 @@
 | 문제번호 | 링크 |
 | ----- | ----- |
 |0121-best-time-to-buy-and-sell-stock|[링크](./LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/README.md)|
+|0217-contains-duplicate|[링크](./LeetCode/Easy/0217-contains-duplicate/README.md)|
 ### 🚀 Hash
 | 문제번호 | 링크 |
 | ----- | ----- |
