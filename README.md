@@ -5,6 +5,10 @@
 
 ## 📚 LeetCode
 |0001-two-sum|[링크](./LeetCode/0001-two-sum/README.md)|
+### 🚀 Easy
+| 문제번호 | 링크 |
+| ----- | ----- |
+|0121-best-time-to-buy-and-sell-stock|[링크](./LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/README.md)|
 ### 🚀 Hash
 | 문제번호 | 링크 |
 | ----- | ----- |
