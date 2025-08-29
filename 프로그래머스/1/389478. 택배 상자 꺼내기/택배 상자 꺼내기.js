@@ -1,5 +1,5 @@
 function solution(n, w, num) {
-    let boxArr = Array.from({lenght:w}, () => []);
+    let boxArr = Array.from({length:w}, () => []);
     let numIdx = [];
     
     for(let i = 0; i < n; i ++){
@@ -11,7 +11,7 @@ function solution(n, w, num) {
         }
     
         if(num == i+1){
-            numIdx = (Math.floor(i/w) % 2 == 0)? [arrIdx, boxArr[arrIdx].lenght-1] : [w-1-arrIdx, boxArr[w-1-arrIdx].length-1];
+            numIdx = (Math.floor(i/w) % 2 == 0)? [arrIdx, boxArr[arrIdx].length-1] : [w-1-arrIdx, boxArr[w-1-arrIdx].length-1];
         }
     }
     
